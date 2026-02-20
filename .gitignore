@@ -1,0 +1,5 @@
+build/
+*/vedirect_proxy/version.h
+*/vedirect_proxy/config.h
+.venv/
+.env
